@@ -35,3 +35,10 @@ Other/Sesotho/Demuth.html.
 [6] Küntay, Aylin C., Dilara Koçbaş & Süleyman Sabri Taşçı. Unpublished. Koç University Longitudinal Language Development Database on language acquisition of 8 children from 8 to 36 months of age.
 
 [7] Pfeiler, Barbara. Unpublished. Pfeiler Yucatec Child Language Corpus.
+
+
+## Data preparation
+
+Run `combine-data.sh` to concatenate the large CSV files into single files.
+
+Run `load-db.sh` to load the CSV files into a sqlite database.
