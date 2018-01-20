@@ -4,13 +4,13 @@
 
 Data provided come from these sources:
 
-[1] Chintang (Stoll et al., Unpublished) 
-[2] Inuktitut (Allen, Unpublished) 
-[3] Japanese (Miyata, 2012)
-[4] Russian (Stoll & Meyer, Unpublished) 
-[5] Sesotho (Demuth, 2015)
-[6] Turkish (Küntay et al., Unpublished) 
-[7] Yucatec (Pfeiler, Unpublished)
+* [1] Chintang (Stoll et al., Unpublished) 
+* [2] Inuktitut (Allen, Unpublished) 
+* [3] Japanese (Miyata, 2012)
+* [4] Russian (Stoll & Meyer, Unpublished) 
+* [5] Sesotho (Demuth, 2015)
+* [6] Turkish (Küntay et al., Unpublished) 
+* [7] Yucatec (Pfeiler, Unpublished)
 
 Corpora [3, 5] are available through CHILDES, see: [http://childes.talkbank.org/](http://childes.talkbank.org/). A great tool for accessing CHILDES data is `childes-db` available here: [http://childes-db.stanford.edu/](http://childes-db.stanford.edu/).
 
