@@ -1,5 +1,11 @@
 # Frequent frames analysis pipeline
 
+## Details
+
+For more information about the ACQDIV project, see: [http://www.acqdiv.uzh.ch/](http://www.acqdiv.uzh.ch/). The research leading to these results has received funding from the European Union’s Seventh Framework Programme (FP7/2007-2013) under grant agreement no 615988 (PI Sabine Stoll).
+
+## Pipeline
+
 1. Generate the bigrams 
 
 Run the script: `bigrams.py` to generate the bigram frequencies. Note this make take a long time.
@@ -29,3 +35,5 @@ Make sure to set words or morphemes (pos or glosses) in the script!
 5. Statistical analysis with R scripts
 
 The `frames-functions.R` file contains various functions for processing and plotting the frequent frames analyses. The words, morphemes and dyads analyses are in `words.R`, `morpheme-gloss-pos.R` and `dyads.R`.
+
+
