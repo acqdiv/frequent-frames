@@ -14,17 +14,16 @@ Data provided come from these sources:
 
 Corpora [3, 5] are available through CHILDES, see: [http://childes.talkbank.org/](http://childes.talkbank.org/). A great tool for accessing CHILDES data is `childes-db` available here: [http://childes-db.stanford.edu/](http://childes-db.stanford.edu/).
 
-Corpora [1, 2, 4, 6, 7] may not be reused or republished in any way without explicit written permission. Access to corpora [1, 2, 4, 6, 7] may be granted to researchers upon request to PI Sabine Stoll. The corpora are not made openly publicly available because they contain sensitive data from unpublished subcorpora. For more information see: [http://www.acqdiv.uzh.ch/en/resources.html](http://www.acqdiv.uzh.ch/en/resources.html).
+Corpora [1, 2, 4, 6, 7] may not be reused or republished in any way without explicit written permission. Access to corpora [1, 2, 4, 6, 7] may be granted to researchers upon request to PI Sabine Stoll. The corpora are not made publicly available in their original form because they contain sensitive data from unpublished subcorpora. For more information see: [http://www.acqdiv.uzh.ch/en/resources.html](http://www.acqdiv.uzh.ch/en/resources.html).
 
 
 ## References
 
-[1] Stoll, Sabine, Elena Lieven, Goma Banjade, Toya Nath Bha a, Martin Gaenszle, Netra P. Paudyal, Manoj Rai, Novel Kishor Rai, Ichchha P. Rai, Taras Zakharko, Robert Schikowski & Balthasar Bickel. Un-
-published. Audiovisual corpus on the acquisition of Chintang by six children.
+[1] Stoll, Sabine, Elena Lieven, Goma Banjade, Toya Nath Bhatta, Martin Gaenszle, Netra P. Paudyal, Manoj Rai, Novel Kishor Rai, Ichchha P. Rai, Taras Zakharko, Robert Schikowski & Balthasar Bickel. Unpublished. Audiovisual corpus on the acquisition of Chintang by six children.
 
 [2] Allen, Shanley. Unpublished. Allen Inuktitut Child Language Corpus.
 
-[3] Miyata, Susanne. 2012. Japanese CHILDES:  e 2012 CHILDES manual for Japanese. http://www2.aasa.ac.jp/people/smiyata/CHILDESmanual/chapter01.html.
+[3] Miyata, Susanne. 2012. Japanese CHILDES: The 2012 CHILDES manual for Japanese. http://www2.aasa.ac.jp/people/smiyata/CHILDESmanual/chapter01.html.
 
 [4] Stoll, Sabine & Roland Meyer. Unpublished. Audio-visional longitudinal corpus on the acquisition of
 Russian by 5 children.
